@@ -1,0 +1,22 @@
+body {
+	background-color: white;
+}
+.modal-content {
+	color: black;
+}
+#carousel-example-generic {
+	width: 500px;
+    margin: 70px;
+}
+.buttondiv{
+	padding: 10px 10px 10px 80px;
+}
+.articlediv{
+	padding: 10px 10px 10px 80px;
+}
+.shop{
+	padding: 10px 10px 10px 250px;
+}
+.main{
+	padding: 10px 10px 10px 80px;
+}
